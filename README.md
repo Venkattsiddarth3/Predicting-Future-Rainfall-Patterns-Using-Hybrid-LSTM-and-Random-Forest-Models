@@ -1,0 +1,2 @@
+# Predicting-Future-Rainfall-Patterns-Using-Hybrid-LSTM-and-Random-Forest-Models
+Predicting Future Rainfall Patterns Using Hybrid LSTM and Random Forest Models is a machine learning project that combines deep learning and ensemble learning to forecast rainfall using historical weather data. The system improves prediction accuracy and supports agriculture, water management, and weather-based decision-making.
